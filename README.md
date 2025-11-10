@@ -302,4 +302,13 @@ Insights:
 - March 2017 had the strongest funnel performance, with over 37% of product viewers adding items to cart and 12.64% completing purchases, indicating better product-market fit or optimized UX.
 - The gap between add-to-cart and purchase narrowed in March, suggesting fewer drop-offs during checkout
 
+## What I Learned from This Project
+This was the first project I uploaded to GitHub, and it taught me valuable foundational skills in using the platform effectively — from version control to documentation and sharing work publicly.
+Through this project, I also had the opportunity to:
+- Practice SQL in a real-world context, writing queries to extract, analyze, and interpret data.
+- Solve a business problem using data-driven insights, which helped me connect technical skills with strategic thinking.
+- Strengthen my ability to structure analysis, communicate findings clearly, and think critically about user behavior and performance metrics.
+Overall, this project marked a key milestone in my journey toward becoming a data analyst, combining technical execution with business impact.
+
+
 
