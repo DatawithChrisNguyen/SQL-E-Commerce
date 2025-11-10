@@ -244,8 +244,8 @@ Insights:
 - Smaller accessories (e.g., Lip Balm, Mugs, Caps, Decals) were consistently purchased in pairs, hinting at impulse buys or gift-oriented behavior.
 - The presence of Android-branded items and the YouTube Bottle Infuser shows cross-brand affinity within the Google ecosystem
 
-### "Query 08: Calculate cohort map from product view to addtocart to purchase in Jan, Feb, and March 2017. For example, 100% product view, then 40% add_to_cart, and 10% purchase.
-Add_to_cart_rate = number of products added to cart/number of product views. Purchase_rate = number of product purchases/number of  product views. The output should be calculated at the product level."
+### Query 08: Calculate cohort map from product view to addtocart to purchase in Jan, Feb, and March 2017. For example, 100% product view, then 40% add_to_cart, and 10% purchase.
+Add_to_cart_rate = number of products added to cart/number of product views. Purchase_rate = number of product purchases/number of  product views. The output should be calculated at the product level.
 ```
 WITH product_view AS(
   SELECT
